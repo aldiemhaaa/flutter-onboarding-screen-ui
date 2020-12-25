@@ -1,17 +1,14 @@
-# onboarding
+# OnBoarding Screen - Flutter UI
 
-A new Flutter project.
+Design for onboarding screen in simple way, just copy file and paste to your project.
+This screen contains 3 screen in just one single file. 
+if you want to add another screen , just copy paste the Items widget in screen/OnBoardingScreen 
 
-## Getting Started
+hope u like it.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### OnBoarding Screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<!-- ![Preview](/gif.gif) -->
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter-onboarding-screen-ui" 
+![App UI](/image.png)
